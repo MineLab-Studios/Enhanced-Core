@@ -7,15 +7,6 @@ Perfect for players who want **smooth gameplay**, **optimized performance**, and
 
 ---
 
-## 📸 Screenshots & Media
-
-*(Add your screenshots or showcase banners here to show off the gameplay!)*
-
-![Example Screenshot](https://example.com/screenshot1.png)  
-![Exploration Showcase](https://example.com/screenshot2.png)
-
----
-
 ## ⚙️ Features
 
 ✅ **Vanilla+ Experience** – Keeps the game feeling original while enhancing gameplay  
